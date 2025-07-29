@@ -1,2 +1,2 @@
 # Hello-word
-This repository is for practicing the GitHub Flow
+I am just a girl, trying to break into the tech space.
